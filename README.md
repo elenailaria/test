@@ -10,5 +10,5 @@ here you can find my image [image](die-kathedrale-gelegen-timisoara-sehr-alt-abe
 ## emojis
 :smile:  
 :book:
-:hand:
-:hello:
+:hand:  
+:hallo:
