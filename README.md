@@ -18,3 +18,9 @@ here you can find my image [image](die-kathedrale-gelegen-timisoara-sehr-alt-abe
 - [ ] css
 - [X] JavaScript
 - [ ] html
+
+## tables
+| HTML | CSS |
+| ---- | --- |
+| 4WEEKS | 3WEEKS |
+| NORMAL | NORMAL |
