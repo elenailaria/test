@@ -12,3 +12,9 @@ here you can find my image [image](die-kathedrale-gelegen-timisoara-sehr-alt-abe
 :book:
 :hand:  
 :angry:
+
+## checkboxes
+- [X] git and github
+- [ ] css
+- [X] JavaScript
+- [ ] html
